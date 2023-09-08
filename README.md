@@ -14,10 +14,10 @@
 Here are some ideas to get you started:
 
 - 🔭 **I’m currently working as Freelancer and can take up web development projects**
-- 🔭 **I have experience of working at Amazon for 2 years.**
+- 🔭 **I have experience of working at Amazon for 2.5 years as an SDE and SDE-Intern.**
 - 🌱 **I’m currently learning about Full Stack Web development in MERN stack**
 - 💬 **Ask me about Backend development, Web Development, and AWS Cloud.**
-- ✈️ **Hire me for remote work & internships.**
+- ✈️ **Hire me for remote work & full-time jobs.**
 - 📫 **How to reach me: Connect with me through social media.**
 - 😄 **Pronouns: he/him/his**** 
 

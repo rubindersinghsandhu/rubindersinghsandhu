@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <h2 align="left">Projects and Courses</h2>
 <p align="left">
 <ol>
-<li><h4><h3>E-commerce website :-</h3> Here is the e-commerce <a href="[https://www.freecodecamp.org/certification/fcc59c43aaa-f8e1-479a-a970-8c05554e29ff/javascript-algorithms-and-data-structures](https://e-commerce-khareedo.vercel.app/)"> website.</a> <br>
+<li><h4><h3>E-commerce website :-</h3> Here is the e-commerce <a href="https://e-commerce-khareedo.vercel.app"> website.</a> <br>
 The website was built with Next.js for seamless performance, Tailwind CSS for sleek design, and utilized Sanity as a database for efficient product catalog management. Additionally, I integrated Stripe as the payment gateway for secure transactions.</h4>
 </li>
 <li><h4><h3>JavaScript Course (FreeCodeCamp):-</h3> Here is the course <a href="https://www.freecodecamp.org/certification/fcc59c43aaa-f8e1-479a-a970-8c05554e29ff/javascript-algorithms-and-data-structures"> certificate.</a> <br>

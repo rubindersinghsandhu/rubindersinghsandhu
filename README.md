@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/codepen.svg" alt="Codepen" width="80" height="40"/>
 <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="git" width="70" height="40"/> 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git-hub" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next-js" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind-css" width="40" height="40"/> 
+<img src="https://github.com/sanity-io/example-frontend-next-js/blob/master/public/sanity-logo.svg" alt="sanity" width="80" height="40"/> 
+<img src="https://github.com/get-icon/geticon/blob/master/icons/stripe.svg" alt="stripe" width="80" height="40"/> 
 </p>
 
 <br>

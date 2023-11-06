@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 <h2 align="left">Projects and Courses</h2>
 <p align="left">
 <ol>
+<li><h4><h3>Pharmaceutical Products Informational website :-</h3> Here is the pharmaceutical <a href="https://torranto-welcome.vercel.app/"> website.</a> <br>
+Created an informative Next.js website that lists pharmaceutical products, featuring category-based filters, sorting options, and keyword search, with data management through Sanity and deployment on Vercel.</h4>
+</li>
 <li><h4><h3>E-commerce website :-</h3> Here is the e-commerce <a href="https://e-commerce-khareedo.vercel.app"> website.</a> <br>
 The website was built with Next.js for seamless performance, Tailwind CSS for sleek design, and utilized Sanity as a database for efficient product catalog management. Additionally, I integrated Stripe as the payment gateway for secure transactions.</h4>
 </li>
